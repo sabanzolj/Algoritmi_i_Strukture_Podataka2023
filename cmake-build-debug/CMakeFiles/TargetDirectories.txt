@@ -1,0 +1,3 @@
+C:/Users/zoljs/OneDrive/Radna površina/Zadaca_4/cmake-build-debug/CMakeFiles/Zadaca_4.dir
+C:/Users/zoljs/OneDrive/Radna površina/Zadaca_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zoljs/OneDrive/Radna površina/Zadaca_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
